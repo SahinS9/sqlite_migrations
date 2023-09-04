@@ -121,3 +121,9 @@ print(emps)
 conn.commit()
 
 conn.close()
+
+
+##NEXT STEPS
+
+#bulk update
+#sqlalchemy
